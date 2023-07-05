@@ -1,0 +1,19 @@
+{
+  "name": "azureservice",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishyonzan/azurepractice.git"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishyonzan/azurepractice/issues"
+  },
+  "homepage": "https://github.com/manishyonzan/azurepractice#readme"
+}
