@@ -1,6 +1,6 @@
 const http = require('http');
 
-const hostname = 'appservicew.azurewebsites.net';
+const hostname = '20.119.0.33';
 const port = 3000;
 
 const server = http.createServer((req, res) => {
